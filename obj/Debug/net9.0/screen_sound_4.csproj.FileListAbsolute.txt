@@ -12,3 +12,4 @@ C:\00_VSCode_EBSERH\alura_estudos\screen_sound_4\obj\Debug\net9.0\refint\screen_
 C:\00_VSCode_EBSERH\alura_estudos\screen_sound_4\obj\Debug\net9.0\screen_sound_4.pdb
 C:\00_VSCode_EBSERH\alura_estudos\screen_sound_4\obj\Debug\net9.0\screen_sound_4.genruntimeconfig.cache
 C:\00_VSCode_EBSERH\alura_estudos\screen_sound_4\obj\Debug\net9.0\ref\screen_sound_4.dll
+C:\00_VSCode_EBSERH\alura_estudos\screen_sound_4\obj\Debug\net9.0\screen_sound_4.sourcelink.json

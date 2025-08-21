@@ -38,4 +38,5 @@ Este projeto é destinado exclusivamente ao aprendizado de C# e .NET, sem fins c
 
 ---
 Desenvolvido por Sérgio Pavanelli, durante os estudos na Plataforma Alura.
+
 © 2025 Sérgio Pavanelli. Todos os direitos reservados.

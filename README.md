@@ -37,4 +37,4 @@ Projeto desenvolvido para fins educacionais na plataforma [Alura](https://www.al
 Este projeto é destinado exclusivamente ao aprendizado de C# e .NET, sem fins comerciais.
 
 ---
-Desenvolvido durante os estudos na Alura.
+Desenvolvido por Sérgio Pavanelli, durante os estudos na Alura₢.

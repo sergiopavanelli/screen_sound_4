@@ -7,12 +7,13 @@ using screen_sound_4.Filtros;
 using (HttpClient client = new HttpClient())
 {
     try
-{
+    {
         string resposta = await client.GetStringAsync("https://guilhermeonrails.github.io/api-csharp-songs/songs.json");
         var musicas = JsonSerializer.Deserialize<List<Musica>>(resposta)!;
 
         // LinqFilter.FiltrarTodosOsGenerosMusicais(musicas);
-        LinqOrder.ExibirListaDeArtistasOrdenados(musicas);
+        // LinqOrder.ExibirListaDeArtistasOrdenados(musicas);
+        LinqFilter.FiltrarArtistasPorGeneroMusical(musicas, "pop");
 }
     catch (HttpRequestException ex)
     {

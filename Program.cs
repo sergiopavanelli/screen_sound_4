@@ -13,7 +13,10 @@ using (HttpClient client = new HttpClient())
 
         // LinqFilter.FiltrarTodosOsGenerosMusicais(musicas);
         // LinqOrder.ExibirListaDeArtistasOrdenados(musicas);
-        LinqFilter.FiltrarArtistasPorGeneroMusical(musicas, "pop");
+        // LinqFilter.FiltrarArtistasPorGeneroMusical(musicas, "pop");
+        LinqFilter.FiltrarMusicasDeUmArtista(musicas, "Michael Jackson");
+
+
 }
     catch (HttpRequestException ex)
     {

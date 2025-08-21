@@ -1,0 +1,14 @@
+C:\00_VSCode_EBSERH\alura_estudos\screen_sound_4\bin\Debug\net9.0\screen_sound_4.exe
+C:\00_VSCode_EBSERH\alura_estudos\screen_sound_4\bin\Debug\net9.0\screen_sound_4.deps.json
+C:\00_VSCode_EBSERH\alura_estudos\screen_sound_4\bin\Debug\net9.0\screen_sound_4.runtimeconfig.json
+C:\00_VSCode_EBSERH\alura_estudos\screen_sound_4\bin\Debug\net9.0\screen_sound_4.dll
+C:\00_VSCode_EBSERH\alura_estudos\screen_sound_4\bin\Debug\net9.0\screen_sound_4.pdb
+C:\00_VSCode_EBSERH\alura_estudos\screen_sound_4\obj\Debug\net9.0\screen_sound_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\00_VSCode_EBSERH\alura_estudos\screen_sound_4\obj\Debug\net9.0\screen_sound_4.AssemblyInfoInputs.cache
+C:\00_VSCode_EBSERH\alura_estudos\screen_sound_4\obj\Debug\net9.0\screen_sound_4.AssemblyInfo.cs
+C:\00_VSCode_EBSERH\alura_estudos\screen_sound_4\obj\Debug\net9.0\screen_sound_4.csproj.CoreCompileInputs.cache
+C:\00_VSCode_EBSERH\alura_estudos\screen_sound_4\obj\Debug\net9.0\screen_sound_4.dll
+C:\00_VSCode_EBSERH\alura_estudos\screen_sound_4\obj\Debug\net9.0\refint\screen_sound_4.dll
+C:\00_VSCode_EBSERH\alura_estudos\screen_sound_4\obj\Debug\net9.0\screen_sound_4.pdb
+C:\00_VSCode_EBSERH\alura_estudos\screen_sound_4\obj\Debug\net9.0\screen_sound_4.genruntimeconfig.cache
+C:\00_VSCode_EBSERH\alura_estudos\screen_sound_4\obj\Debug\net9.0\ref\screen_sound_4.dll

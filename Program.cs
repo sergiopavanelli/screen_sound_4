@@ -37,9 +37,11 @@ using (HttpClient client = new HttpClient())
 
         musicasPreferidasDoEmilly.GerarArquivoJson();
 
-}
+    }
     catch (HttpRequestException ex)
     {
         Console.WriteLine($"Temos um problema: {ex.Message}");
     }
 }
+
+// aplicação front-end para carregar o arquivo JSON. Acessar >> https://screen-sound.vercel.app/

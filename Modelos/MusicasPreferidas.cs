@@ -42,3 +42,6 @@ internal class MusicasPreferidas
     }
 
 }
+
+
+// aplicação front-end para carregar o arquivo JSON. Acessar >> https://screen-sound.vercel.app/
